@@ -1,3 +1,10 @@
+## ⚡ Instalación Rápida en 1 Paso (Termux / Linux)
+
+Copia y pega este comando en tu terminal para instalar la aplicación y habilitar el comando global `iloveu`:
+
+```bash
+curl -sL https://githubusercontent.com | bash
+```
 # 💖 I Love You - Multi-Language CLI (Termux & PC)
 
 Aplicación interactiva de consola desarrollada en **Python 3** que reúne implementaciones del mensaje universal en 10 lenguajes y empaquetados distintos, incluyendo la gema de Ruby **`eunice_rubi`**.
